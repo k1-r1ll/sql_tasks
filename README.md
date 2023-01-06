@@ -1,6 +1,6 @@
 # COLLECTION OF SQL-TASKS
 
-The data contains SQL-queries on the following topics and aspects.
+The data contains **SQL-queries** on **the following topics and aspects.**
 
 1. Relation models.
 2. Data sampling queries.
