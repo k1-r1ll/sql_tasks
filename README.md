@@ -1,4 +1,4 @@
-# COLLECTION OF SQL-TASKS
+# COLLECTION OF SQL-QUERIES EXAMPLES
 
 The data contains **SQL-queries** on **the following topics and aspects.**
 
