@@ -11,4 +11,4 @@ The data contains SQL-queries on the following topics and aspects.
 7. Sampling and correcting queries for data after binding several tables (up to 6).
 8. Statistical metrics.
 
-Data Bases content: book Internet shop, Traffic code violation registration, business trip statistics, online course testing, university study data.
+Data Bases content: book Internet shop, traffic code violation registration, business trip statistics, online course testing, university study data.
