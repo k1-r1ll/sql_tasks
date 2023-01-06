@@ -1,4 +1,4 @@
-COLLECTION OF SQL-TASKS
+# COLLECTION OF SQL-TASKS
 
 The data contains SQL-queries on the following topics and aspects.
 
